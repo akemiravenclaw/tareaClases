@@ -1,0 +1,6 @@
+C:\Users\shavi\Desktop\clases\clases\bin\Debug\clases.exe
+C:\Users\shavi\Desktop\clases\clases\bin\Debug\clases.pdb
+C:\Users\shavi\Desktop\clases\clases\obj\Debug\clases.csprojAssemblyReference.cache
+C:\Users\shavi\Desktop\clases\clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+C:\Users\shavi\Desktop\clases\clases\obj\Debug\clases.exe
+C:\Users\shavi\Desktop\clases\clases\obj\Debug\clases.pdb
